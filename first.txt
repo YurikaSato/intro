@@ -2,3 +2,4 @@ Gitの練習を始めます。
 ふれちゃんのために頑張ってます！
 ・git add
 ・git commit
+・git rm
